@@ -5,8 +5,10 @@
 **MD Hasibul Haque Zahid**
 
 -------
+
 ### Description 
-This project is a simple PDF generator web application built with Node.js, Express, and PDFKit. The application allows users to enter text in a form and generate a PDF file with the entered text. The project is designed to help learn and demonstrate the use of Docker, Docker Hub, and GitHub Actions for automated deployments.
+- This project is a simple PDF generator web application built with Node.js, Express, and PDFKit. The application allows users to enter text in a form and generate a PDF file with the entered text. The project is designed to help learn and demonstrate the use of Docker, Docker Hub, and GitHub Actions for automated deployments.
+
 -------
 ### Features
 - A web form for user input
